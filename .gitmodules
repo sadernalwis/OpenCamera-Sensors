@@ -1,3 +1,9 @@
 [submodule "Lens"]
 	path = Lens
 	url = https://github.com/sadernalwis/android-lens.git
+[submodule "Vulkan"]
+	path = Vulkan
+	url = https://github.com/sadernalwis/Vulkan.git
+[submodule "AR"]
+	path = AR
+	url = https://github.com/sadernalwis/arcore-android-sdk.git
