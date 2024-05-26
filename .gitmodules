@@ -1,0 +1,3 @@
+[submodule "Lens"]
+	path = Lens
+	url = https://github.com/sadernalwis/android-lens.git
